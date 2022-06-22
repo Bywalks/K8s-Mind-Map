@@ -19,6 +19,18 @@ K8S、Docker安全攻防思维导图。
 
 ### Reference ###
 * [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
 
 https://github.com/aquasecurity/kube-hunter  
 https://github.com/cdk-team/CDK  
