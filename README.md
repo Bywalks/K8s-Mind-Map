@@ -18,8 +18,8 @@ K8S、Docker安全攻防思维导图。
 ![K8S认证鉴权](./K8S认证鉴权.png)
 
 ### Reference ###
-* [Enterprise_Security_Build--Open_Source](https://bloodzer0.github.io)
-https://www.freebuf.com/vuls/196993.html  
+* [kubernetes集群渗透测试](https://www.freebuf.com/vuls/196993.html)
+
 https://github.com/aquasecurity/kube-hunter  
 https://github.com/cdk-team/CDK  
 https://jimmysong.io/kubernetes-handbook/usecases/service-mesh.html  
